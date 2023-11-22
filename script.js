@@ -10,7 +10,6 @@ const fetchPosts = async () => {
     const data = await response.json();
     
     displayPosts(data);
-    page++;
     console.log(postsArray);
   } catch (error) {
     console.error("Error fetching posts:", error);
