@@ -1,4 +1,4 @@
-# Dekho - Photo Gallery
+# Dekho - Post Gallery
 
 Dekho is a simple photo gallery web application that fetches and displays photos from the Unsplash API. It allows users to scroll through an infinite list of photos.
 
