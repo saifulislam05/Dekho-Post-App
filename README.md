@@ -1,6 +1,9 @@
-# Dekho - Post Gallery
+# Dekho - Post App
 
 Dekho is a simple photo gallery web application that fetches and displays photos from the Unsplash API. It allows users to scroll through an infinite list of photos.
+
+## Demo
+View live [Dekho Post App](https://dekho-posts-app.netlify.app/)
 
 ## Features
 
